@@ -25,7 +25,7 @@ public class Display_Bank extends AppCompatActivity {
 
     public static String Accountnum = Integrated_options.PublicAccountNumber;
 
-    public String baseUrl = "https://e5hbne06n1.execute-api.ap-south-1.amazonaws.com/test/";
+    public String baseUrl = "https://sqi4otl6eh.execute-api.ap-south-1.amazonaws.com/dev/";
 
 
     @Override

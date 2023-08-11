@@ -27,7 +27,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class LoginActivity extends AppCompatActivity {
 
-    public String baseUrl = "https://e5hbne06n1.execute-api.ap-south-1.amazonaws.com/test/";
+    public String baseUrl = "https://sqi4otl6eh.execute-api.ap-south-1.amazonaws.com/dev/";
 
     public static String Uid;
 

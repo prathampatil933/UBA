@@ -30,7 +30,7 @@ public class Addbank extends AppCompatActivity {
         setContentView(binding.getRoot());
 
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("https://e5hbne06n1.execute-api.ap-south-1.amazonaws.com/test/")
+                .baseUrl("https://sqi4otl6eh.execute-api.ap-south-1.amazonaws.com/dev/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
 

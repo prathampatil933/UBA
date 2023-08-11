@@ -169,7 +169,7 @@ def lambda_handler(event, context):
         request status = 'successfull'
         uid = 'abc@abc.com'
         
-        invoke url : https://e5hbne06n1.execute-api.ap-south-1.amazonaws.com/test/crud?StatusCode=102&accno=526698
+        invoke url :https://sqi4otl6eh.execute-api.ap-south-1.amazonaws.com/dev/crud?StatusCode=102&accno=526698
 
         }
     
@@ -224,7 +224,7 @@ def lambda_handler(event, context):
         
         
 
-        invoke url : https://e5hbne06n1.execute-api.ap-south-1.amazonaws.com/test/crud?StatusCode=102&accno=526698
+        invoke url :https://sqi4otl6eh.execute-api.ap-south-1.amazonaws.com/dev/crud?StatusCode=102&accno=526698
 
         }
     
@@ -278,7 +278,7 @@ def lambda_handler(event, context):
         request status = 'successfull'
         uid = 'abc@abc.com'
 
-        invoke url : https://e5hbne06n1.execute-api.ap-south-1.amazonaws.com/test/crud?StatusCode=102&accno=526698
+        invoke url :https://sqi4otl6eh.execute-api.ap-south-1.amazonaws.com/dev/crud?StatusCode=102&accno=526698
 
         }
     
@@ -343,7 +343,7 @@ def lambda_handler(event, context):
         request status = 'successfull'
         uid = 'abc@abc.com'
         
-        invoke url : https://e5hbne06n1.execute-api.ap-south-1.amazonaws.com/test/crud?StatusCode=102&accno=526698
+        invoke url :https://sqi4otl6eh.execute-api.ap-south-1.amazonaws.com/dev/crud?StatusCode=102&accno=526698
 
         }
     
@@ -387,7 +387,7 @@ def lambda_handler(event, context):
         request status = 'successfull'
         uid = 'abc@abc.com'
         
-        invoke url : https://e5hbne06n1.execute-api.ap-south-1.amazonaws.com/test/crud?StatusCode=102&accno=526698
+        invoke url :https://sqi4otl6eh.execute-api.ap-south-1.amazonaws.com/dev/crud?StatusCode=102&accno=526698
 
         }
     
